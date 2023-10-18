@@ -1,0 +1,28 @@
+.heading{
+    font-size: 25px !important;
+    width: 100%;
+    margin: 0px;
+
+}
+
+body{
+    background-size: 200% ;
+    color: aquamarine;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.note{
+    font-size: 15px;
+    color: aliceblue;
+}
+#song{
+    font-size: 23px;
+    margin: 15px;
+
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px blueviolet;
+}
